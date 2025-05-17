@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Alfa Srl",
+    "descrizione": "Azienda operante nel settore metalmeccanico.",
+    "risultati": "Fatturato: €3M - Utile netto: €200K",
+    "competitor": ["Beta Srl", "Gamma Spa"],
+    "mercato": "Presenza in Puglia e Campania",
+    "idee": "Espansione nel Nord Italia"
+  },
+  {
+    "name": "Beta Srl",
+    "descrizione": "Startup tecnologica attiva nel cloud computing.",
+    "risultati": "Fatturato: €800K - Perdita: €50K",
+    "competitor": ["Alfa Srl", "Delta Solutions"],
+    "mercato": "Italia centro-settentrionale",
+    "idee": "Sviluppo app AI per gestione magazzino"
+  }
+]
